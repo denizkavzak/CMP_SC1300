@@ -1,6 +1,13 @@
 # import sys
 # sys.path.append("/C:/MU/CMP_SC1300/Code/Chapter9/students_simple/gradebook")
 
+##
+# This is a Gradebook manager class
+# This class handles the records of
+# students, prepares and updates 
+# the gradebook
+#
+
 from gradebook import GradeBook
 from student import Student
 
