@@ -18,7 +18,7 @@ class Student :
       self._lastname = lastname
       self._year = year
       self._gpa = gpa
-      self_lettergrades = []
+      self._lettergrades = []
       
    ## Implementing update function for gpa
    #  @param gpa, new gpa value
